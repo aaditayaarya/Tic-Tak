@@ -6,7 +6,7 @@ A simple, interactive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **J
 
 ## 🔗 Live Demo
 
-[👉 Click to Play the Game](https://your-live-link.com) <!-- Replace with your GitHub Pages or Netlify link -->
+[👉 Click to Play the Game](https://aaditayaarya.github.io/Tic-Tak/) <!-- Replace with your GitHub Pages or Netlify link -->
 
 ---
 
@@ -37,14 +37,10 @@ A simple, interactive **Tic-Tac-Toe** game built with **HTML**, **CSS**, and **J
 ## 📁 Folder Structure
 
 tic-tac-toe/
-├── index.html
-├── style.css
-├── script.js
-├── screenshot.png (optional)
-└── README.md
-
----
-
+- ✅ index.html
+- ✅ style.css
+- ✅ script.js
+- ✅  README.md
 
 ---
 
